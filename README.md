@@ -1,4 +1,4 @@
-# Webhook Activity Tracker API
+# Tracker API
 
 This project is a backend service developed using **FastAPI** and **PostgreSQL**, designed to handle user activity tracking via webhook requests. It allows recording, retrieving, and managing user activities for a given platform.
 
